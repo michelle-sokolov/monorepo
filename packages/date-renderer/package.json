@@ -1,5 +1,5 @@
 {
-  "name": "@michelle-sokolov/date-logic",
+  "name": "@michelle-sokolov/date-renderer",
   "version": "1.0.0",
   "description": "A package that returns the current date - render",
   "main": "index.js",
