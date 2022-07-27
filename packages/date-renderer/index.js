@@ -1,3 +1,4 @@
-module.exports = function getDate() {
-    return new Date();
-  };
+const getDate =
+(() => {
+  console.log(`hello world`);
+})();
