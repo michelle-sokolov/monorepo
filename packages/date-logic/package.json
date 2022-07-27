@@ -1,6 +1,6 @@
 {
   "name": "@michelle-sokolov/date-logic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package that returns the current date",
   "main": "index.js",
   "repository": "https://github.com/michelle-sokolov/monorepo",

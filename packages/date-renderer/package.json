@@ -1,6 +1,6 @@
 {
   "name": "@michelle-sokolov/date-renderer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package that returns the current date - render",
   "main": "index.js",
   "repository": "https://github.com/michelle-sokolov/monorepo",
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@michelle-sokolov/date-logic": "1.0.0"
+    "@michelle-sokolov/date-logic": "^1.1.0"
   },
   "author": "michelle sokolov",
   "license": "ISC"
