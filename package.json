@@ -1,0 +1,25 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelle-sokolov/monorepo.git"
+  },
+  "author": "michelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelle-sokolov/monorepo/issues"
+  },
+  "homepage": "https://github.com/michelle-sokolov/monorepo#readme",
+  "dependencies": {
+    "lerna": "^5.3.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
